@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
+<h3 align="center">A passionate SOFTWARE ENGINEER (Mobile and Web Dev) from Bengaluru, India</h3>
 
 - 👨‍💻 All of my projects are available at [https://abhishek-gadad.netlify.app/](https://abhishek-gadad.netlify.app/)
 
